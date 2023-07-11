@@ -1,29 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T02:23:27.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Whale/3.21.192.18 Safari/537.36" etag="AjeFhGUcfpc5XGvgBY8j" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T02:10:11.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Whale/3.21.192.18 Safari/537.36" etag="EYk4IqOfIZeP1Y7LEGb-" version="21.6.1" type="github">
   <diagram name="페이지-1" id="XJ65hSDBBRfJcGUTycht">
     <mxGraphModel dx="1388" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Yf9P2gVt8fkmq4JzfmVm-1" value="학생" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="OPsa2TW1SLYuK2PDE3_e-1" value="학생" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="450" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yf9P2gVt8fkmq4JzfmVm-3" value="과목" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="OPsa2TW1SLYuK2PDE3_e-4" value="과목" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="450" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yf9P2gVt8fkmq4JzfmVm-4" value="수강" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="290" width="123.5" height="80" as="geometry" />
+        <mxCell id="OPsa2TW1SLYuK2PDE3_e-5" value="수강" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yf9P2gVt8fkmq4JzfmVm-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Yf9P2gVt8fkmq4JzfmVm-1" target="Yf9P2gVt8fkmq4JzfmVm-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="440" y="370" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="OPsa2TW1SLYuK2PDE3_e-6" value="교수" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yf9P2gVt8fkmq4JzfmVm-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="Yf9P2gVt8fkmq4JzfmVm-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="330" as="sourcePoint" />
-            <mxPoint x="560" y="330" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="OPsa2TW1SLYuK2PDE3_e-7" value="학과" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OPsa2TW1SLYuK2PDE3_e-8" value="소속" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

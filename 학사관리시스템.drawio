@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T02:28:43.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Whale/3.21.192.18 Safari/537.36" etag="9g32sMop81E19Z5_6ElQ" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T02:49:47.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Whale/3.21.192.18 Safari/537.36" etag="Te5rc0PCgsQGyp3CZhTA" version="21.6.1" type="github" pages="2">
   <diagram name="페이지-1" id="XJ65hSDBBRfJcGUTycht">
     <mxGraphModel dx="1388" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,6 +201,71 @@
         </mxCell>
         <mxCell id="OPsa2TW1SLYuK2PDE3_e-60" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="OPsa2TW1SLYuK2PDE3_e-59">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="H21uC2cTa8sURCDHjLox" name="페이지-2">
+    <mxGraphModel dx="426" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pprgIQKV4Pzm__yonUTH-6" value="학과명" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-7" value="&lt;u&gt;학과코드&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-14" value="&lt;u&gt;교수코드&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-15" value="교수이름" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="180" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-16" value="학과코드" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-17" value="&lt;u&gt;학번&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-18" value="이름" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-19" value="키" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="260" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-20" value="학과코드" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-21" value="과목코드" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-22" value="&lt;u&gt;과목코드&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-23" value="과목명" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-24" value="종료일" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-25" value="시작일" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="340" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-26" value="학번" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-30" value="&lt;b&gt;학과&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-31" value="&lt;b&gt;교수&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-32" value="&lt;b&gt;학생&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pprgIQKV4Pzm__yonUTH-33" value="&lt;b&gt;과목&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

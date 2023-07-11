@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T02:26:41.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Whale/3.21.192.18 Safari/537.36" etag="kZZv9O1emjR2C1cZ7uY2" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T02:27:28.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Whale/3.21.192.18 Safari/537.36" etag="2l0wedXuP84qGbej9geG" version="21.6.1" type="github">
   <diagram name="페이지-1" id="XJ65hSDBBRfJcGUTycht">
     <mxGraphModel dx="1388" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="OPsa2TW1SLYuK2PDE3_e-8" value="소속" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="370" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OPsa2TW1SLYuK2PDE3_e-58" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OPsa2TW1SLYuK2PDE3_e-9" target="OPsa2TW1SLYuK2PDE3_e-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OPsa2TW1SLYuK2PDE3_e-9" value="강의" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="60" height="30" as="geometry" />
